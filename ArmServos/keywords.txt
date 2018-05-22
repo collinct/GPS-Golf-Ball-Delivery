@@ -1,0 +1,20 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArmServos	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+attach	KEYWORD2
+setJointAngle	KEYWORD2
+getJointAngle	KEYWORD2
+setGripperDistance	KEYWORD2
+getGripperDistance	KEYWORD2
+setPosition	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
