@@ -1,0 +1,22 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AndroidAccessory	KEYWORD1
+Usb	KEYWORD1
+Max3421e	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+    
+powerOn	KEYWORD2
+isConnected	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+	
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
